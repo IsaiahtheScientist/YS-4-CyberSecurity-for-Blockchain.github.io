@@ -1,0 +1,7 @@
+echo "# YS-4-CyberSecurity-for-Blockchain" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/IsaiahtheScientist/YS-4-CyberSecurity-for-Blockchain.git
+git push -u origin main
